@@ -6,3 +6,7 @@ For bug reports, use the [Timelines of War issue tracker](https://github.com/Gal
 ## How do I know if you've read my suggestion?
 
 If it's been 24 hours, I've most likely read it. I check this repository daily. If I like it, I'll implement it.
+
+## A few things you shouldn't suggest
+
+- ...
